@@ -1,4 +1,4 @@
-![Ellen Houghton Skills Word Cloud](https://github.com/annwyl21/annwyl21.github.io/blob/main/images/EllenHoughtonCVwordcloudAug16.png) 👋
+![Ellen Houghton Skills Word Cloud](https://github.com/annwyl21/annwyl21.github.io/blob/main/images/github_profile_image.png) 👋
 - &#129514; Test Driven Development - check out my [Yahtzee Scorer Repo](https://github.com/annwyl21/yahtzee)
 - &#128105; Object-Oriented Programming - look at my [Debt Comparison Calculator Repo](https://github.com/annwyl21/debt_comparison)
 - &#129302; AI & Databases - that's all in my [Symptom Logger Repo](https://github.com/annwyl21/symptom_record)
