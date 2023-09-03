@@ -1,12 +1,18 @@
-![Ellen Houghton Skills Word Cloud](https://github.com/annwyl21/annwyl21.github.io/blob/main/images/github_profile_image.png) 👋
+![Ellen Houghton Skills Word Cloud](https://github.com/annwyl21/annwyl21.github.io/blob/main/images/github_profile_image.png) 
+👋
+
 &#129514; Test Driven Development
 - check out my [Yahtzee Scorer Repo](https://github.com/annwyl21/yahtzee)
+
 &#128105; Object-Oriented Programming
 - look at my [Debt Comparison Calculator Repo](https://github.com/annwyl21/debt_comparison)
+
 &#129302; AI & Databases
 - that's all in my [Symptom Logger Repo](https://github.com/annwyl21/symptom_record)
+
 &#128202; Data Visualisation
 - the heatmaps can be found in the [Heathrow Weather Data Repo](https://github.com/annwyl21/heatmap_weather)
+
 &#128187; JavaScript front-end and node-js
 - see my [Portfolio](https://annwyl21.github.io/) website and the [BrewQueue](https://annwyl21.github.io/Fulfillment/index.html) and [RPS](https://annwyl21.github.io/RockPaperScissors/Assignment_5_Ellen_2of3.html) projects
 
