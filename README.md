@@ -3,7 +3,7 @@
 
 &#129514; Test Driven Development in [Yahtzee Scorer Repo](https://github.com/annwyl21/yahtzee)
 
-&#128105; Object-Oriented Programming in [Debt Comparison Calculator Repo](https://github.com/annwyl21/debt_comparison)
+&#128105; Object-Oriented Python Programming in [Debt Comparison Calculator Repo](https://github.com/annwyl21/debt_comparison)
 
 &#129302; AI & Databases in [Symptom Logger Repo](https://github.com/annwyl21/symptom_record)
 
