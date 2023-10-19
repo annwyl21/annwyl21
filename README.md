@@ -19,7 +19,7 @@
 
 Graduating &#127979; JustIT’s Digital Skills Bootcamp in September 2023, I have created a Python Microservice providing endpoints to an SQLite database for CRUD operations and built JavaScript-based websites. 
 I also use GitHub extensively; for version control, project tracking, I have shared a gist and used Actions for CI/CD in my projects. 
-I have deployed projects on [render](https://github.com/annwyl21/FilmFlixRestAPI) and [replit](https://github.com/annwyl21/yahtzee), my [portfolio](https://annwyl21.github.io/) is on GitHub Pages. I have explored docker and azure to deploy my [debt comparison](https://github.com/annwyl21/debt_comparison) project.
+I have deployed projects on [render](https://github.com/annwyl21/FilmFlixRestAPI) and [replit](https://github.com/annwyl21/yahtzee), my [portfolio](https://annwyl21.github.io/) is on GitHub Pages. I have explored [docker and azure](https://github.com/annwyl21/debt_comparison) to deploy my debt comparison project.
 I have created &#128195;individual projects during the bootcamp and worked in teams to create 🤝collaborative work in the Ladies Of Code **Test Driven Development Coding Club**.
 
 I am available for work immediately and actively seeking employment as a Junior Software Engineer in the London, UK area.
