@@ -23,4 +23,3 @@ I have deployed projects on [render](https://github.com/annwyl21/FilmFlixRestAPI
 I have created &#128195;individual projects during the bootcamp and worked in teams to create 🤝collaborative work in the Ladies Of Code **Test Driven Development Coding Club**.
 
 I am available for work immediately and actively seeking employment as a Junior Software Engineer in the London, UK area.
-
