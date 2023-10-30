@@ -15,6 +15,8 @@
 
 &#128202; Data Visualisation in the [Heathrow Weather Data Repo](https://github.com/annwyl21/heatmap_weather)
 
+☕ Small Java [Digit Recall](https://github.com/annwyl21/DigitRecall) Project
+
 ![Codewars 5kyu](https://www.codewars.com/users/annwyl21/badges/micro)
 
 Graduating &#127979; JustIT’s Digital Skills Bootcamp in September 2023, I have created a Python Microservice providing endpoints to an SQLite database for CRUD operations and built JavaScript-based websites. 
