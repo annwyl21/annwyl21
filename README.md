@@ -1,6 +1,8 @@
 ![Ellen Houghton Skills Word Cloud](https://github.com/annwyl21/annwyl21.github.io/blob/main/images/github_profile_image.png) 
 👋
 
+&#129302; AI, Database Integration, 2 Microservices and UI in [Symptom Logger Repo](https://github.com/annwyl21/symptom_logger_api)
+
 🐍 Python Microservice RestAPI with 2 clients in [Film Flix RestAPI](https://github.com/annwyl21/FilmFlixRestAPI)
 
 &#129514; Test Driven Development in [Yahtzee Scorer Repo](https://github.com/annwyl21/yahtzee)
@@ -10,8 +12,6 @@
 🛠️⚙️🔍 Web Scraper Tools in [Web Scraper Repo](https://github.com/annwyl21/webscraper)
 
 &#128105; Object-Oriented Python Programming in [Debt Comparison Calculator Repo](https://github.com/annwyl21/debt_comparison)
-
-&#129302; AI & Databases in [Symptom Logger Repo](https://github.com/annwyl21/symptom_record)
 
 &#128202; Data Visualisation in the [Heathrow Weather Data Repo](https://github.com/annwyl21/heatmap_weather)
 
