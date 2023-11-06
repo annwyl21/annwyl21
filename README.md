@@ -1,7 +1,7 @@
 ![Ellen Houghton Skills Word Cloud](https://github.com/annwyl21/annwyl21.github.io/blob/main/images/github_profile_image.png) 
 👋
 
-&#129302; AI, Database Integration, 2 Microservices and UI in [Symptom Logger Repo](https://github.com/annwyl21/symptom_logger_api) developed and managed solely by me using my [GitHub Project](https://github.com/users/annwyl21/projects/8)
+&#129302; AI, Database Integration, 2 Microservices and UI in [Symptom Logger Repo](https://github.com/annwyl21/symptom_logger_ui) developed and managed solely by me using my [GitHub Project](https://github.com/users/annwyl21/projects/8)
 
 🐍 Python Microservice RestAPI with 2 clients in [Film Flix RestAPI](https://github.com/annwyl21/FilmFlixRestAPI)
 
