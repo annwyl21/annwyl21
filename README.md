@@ -1,5 +1,5 @@
 ![Ellen Houghton Skills Word Cloud](https://github.com/annwyl21/annwyl21.github.io/blob/main/images/github_profile_image.png) 
-👋
+👋 ![Codewars 5kyu](https://www.codewars.com/users/annwyl21/badges/micro)
 
 &#129302; AI, Database Integration, 2 Microservices and UI in [Symptom Logger Repo](https://github.com/annwyl21/symptom_logger_ui) developed and managed solely by me using my [GitHub Project](https://github.com/users/annwyl21/projects/8)
 
@@ -16,8 +16,6 @@
 &#128202; Data Visualisation in the [Heathrow Weather Data Repo](https://github.com/annwyl21/heatmap_weather)
 
 ☕ Small Java [Digit Recall](https://github.com/annwyl21/DigitRecall) Project
-
-![Codewars 5kyu](https://www.codewars.com/users/annwyl21/badges/micro)
 
 Graduating &#127979; JustIT’s Digital Skills Bootcamp in September 2023, I have created a Python Microservice providing endpoints to an SQLite database for CRUD operations and built JavaScript-based websites. 
 I also use GitHub extensively; for version control, project tracking, I have shared a gist and used Actions for CI/CD in my projects. 
