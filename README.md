@@ -4,7 +4,7 @@
 
 &#129514; Test Driven Development (TDD) & Object-Oriented Programming (OOP) in [Yahtzee Scorer Repo](https://github.com/annwyl21/yahtzee)
 
-&#9749; Java based Library Management System with unit testing
+&#9749; Java based [Library Management System](https://github.com/annwyl1/librarymanagement) with unit testing
 
 &#128202; Data Visualisation in the [Heathrow Weather Data Repo](https://github.com/annwyl21/heatmap_weather)
 
