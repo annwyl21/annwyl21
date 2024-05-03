@@ -7,5 +7,3 @@
 &#128202; Data Visualisation in the [Heathrow Weather Data Repo](https://github.com/annwyl21/heatmap_weather)
 
 ![Codewars 5kyu](https://www.codewars.com/users/annwyl21/badges/micro)
-
-![Ellen Houghton Skills Word Cloud](https://github.com/annwyl21/annwyl21.github.io/blob/main/images/github_profile_image.png) 
